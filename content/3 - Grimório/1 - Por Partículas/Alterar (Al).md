@@ -7,7 +7,7 @@ tags:
 ---
 ## ALALA (Alterar Abstrato)
 - **Alala Rat (Alterar Abstrato Dimensional)** - Comprimir/Expandir o espaço  
-- **Alala Bhas (Alterar Abstrato Emoção)** - Fazer uma pessoa ser mais amigável com você  
+- **Alala Bhas (Alterar Abstrato Emoção)** - Fazer uma pessoa ser amigável com você  
 
 ## ALANI (Alterar Alma)
 
