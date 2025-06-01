@@ -13,7 +13,7 @@ Cada magia é composta obrigatoriamente por uma função e um objeto, pode ter q
 Exemplo: Evali Tuni San (Invocar Animal Tecido Forma: Esfera)
 
 ### **FUNÇÕES**
-- **[[3 - Grimório/1 - Por Partículas/Alterar (AL)|Alterar (AL)]]**
+- **[[Alterar (AL)|Alterar (AL)]]**
 	- Modificar, Influenciar, Transfigurar ou Metamorfosear
 	- Altera em parte ou todo sua fisicalidade ou características abstratas
 	- Normalmente temporário, durando 5 minutos
