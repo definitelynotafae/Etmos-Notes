@@ -10,6 +10,7 @@ Cada magia é composta obrigatoriamente por uma função e um objeto, pode ter q
 
 ##### ==| Função + Objeto | + Características + Complemento==
 
+Exemplo: Evali Tuni San (Invocar Animal Tecido Forma: Esfera)
 
 ### **FUNÇÕES**
 - **[[Alterar (AL)|Alterar (AL)]]**
@@ -114,77 +115,190 @@ Cada magia é composta obrigatoriamente por uma função e um objeto, pode ter q
 ---
 
 ### **OBJETOS**
-- **ABSTRATO (ALA)**  
+- **ABSTRATO (ALA)** 
+	- O que não é concreto, algo imaterial ou intangível
 - **ALMA (ANI)**  
+	- Atua no Espírito, na força espiritual de cada um que se conecta à mente e ao corpo e configura o poder mágico
 - **ANIMAIS (ALI)**  
+	- Criaturas Mundanas ou Fantásticas
+	- Seres sencientes mas sem a capacidade de raciocínio complexo
 - **AURA (IRO)**  
+	- Fenômenos físicos ou abstratos existentes em uma área
 - **CADÁVER (EVA)**  
+	- Restos mortais de um ser
 - **CLIMA (AYU)**  
+	- Fatores e fenômenos climáticos - temperatura, pressão atmosférica
+	- Fenômenos naturais - chuvas, geadas
 - **COMIDA (IBO)**  
+	- O que é considerado culturalmente como alimentos
+	- Sólidos ou líquidos com valor nutricional
 - **CONSTRUÇÃO (OMU)**  
+	- Edifícios, imóveis, casas ou estruturas naturais e criadas
 - **ELEMENTO (ELI)**  
+	- Elementos naturais como fogo, eletricidade, madeira, luz...
 - **EXPLOSÃO (EPI)**  
+	- Estouro, combustão, detonação, estrondo ou liberação súbita de energia
 - **INANIMADO (EXA)**  
+	- Objeto, coisas, peças, instrumentos, itens ou utensílios
 - **INFORMAÇÃO (AZI)**  
+	- Conhecimento e estímulos sensoriais
 - **MENTE-PENSAMENTO (IMU)**  
+	- Processo intelectivo de pensar, psique, intelecto, raciocínio, consciência, lembrança ou mentalidade
 - **PESSOA (IVI)**  
+	- Individuo com sapiência
 - **SENTIDOS (UNA)**  
+	- Percepção de sensações, sentidos e instinto
 - **TECNOLOGIA (INA)**  
+	- Objetos e Coisas criadas pelo conhecimento científico
 - **TEMPO (ANU)**  
+	- Conceito científico de tempo, passado, presente e futuro. Geralmente aumenta significativamente a complexidade da magia
 - **TERRENO (ERA)**  
+	- Solo, chão, área, campo, superfície ou substrato de um local
 - **VEGETAÇÃO-FLORA (ORA)**  
+	- Natureza ambiental
 
 ---
 
 ### **CARACTERÍSTICAS**
 - **ÁCIDO (DUM)**  
+	- Solução aquosa corrosiva
+	- Possíveis variações: Substância química não natural
 - **ÁGUA (QUAN)**  
+	- Substância líquida comumente chamada de água. | H20
+	- Possíveis variações: Gelo, Vapor, Neblina
 - **AR (AER)**  
+	- Vento, correntes de ar, gás que seres humanos respiram
+	- Possíveis variações: Neblina, Tufão
+	- Possíveis negações: Vácuo
 - **ARMAS (IMPE)**  
+	- Objetos utilizados em combates corpo a corpo, ofensivamente ou defensivamente
+	- Possíveis variações: Ferramentas de ofício, Utensílios, Arma Improvisada
 - **CHEIRO (KAR)**  
+	- Odor, fragrância, aroma ou sensação olfativa
+	- Possíveis variações: Miasma
 - **CORPO (PHYS)**  
+	- Fisiologia e estrutura física de uma pessoa, animal ou planta
+	- Possíveis variações: Pelo, Unha, Cabelo, Tato 
 - **DIMENSIONAL (RAT)**  
+	- Planos de existência, ou locais extradimensionais
+	- Possíveis variações: Espaço, Cosmos
 - **ELÉTRICO (TRIZ)**  
+	- Eletricidade, ou correntes de energia
+	- Possíveis variações: Magnetismo
 - **EMOÇÃO (BHAS)**  
+	- Sentimentos e emoções simples ou complexas (Pense nos divertidamentes)
+	- Possíveis variações: Dor, Riso, Engraçado, Força de vontade
 - **ESCURIDÃO (TEN)**  
+	- Sombras, ausência de luz
+	- Possíveis variações: Secreto, Segredo
 - **FOGO (IG)**  
+	- Liberação de energia ao queimar algo
+	- Possíveis variações: Lava, Fumaça, Plasma
 - **FORÇA (VIB)**  
+	- Força cinética ou uma energia invisível capaz de interagir com objetos
 - **GRAVIDADE (YM)**  
+	- Força física de atração de corpos causada por deformações no espaço
+	- Possíveis variações: Peso
 - **IDIOMA (HIN)**  
+	- Lingua falada por uma pessoa, dialeto ou fala
+	- Possíveis variações: Linguagem de programação, 
 - **ILUSÃO (ALUI)**  
+	- Fenômeno que causa um erro de percepção sensorial
+	- Possíveis variações: Falso, Mentira
 - **LOUCURA (MOK)**  
+	- Insanidade, delírios, devaneios, alucinações, distúrbios, insensatez
+	- Possíveis variações: Insônia
 - **LUZ (LUM)**  
+	- Brilho ou espectro visível de uma onda eletromagnética
+	- Possíveis variações: Cor
+	- Possíveis negações: Escuridão
 - **MAGIA (MAG)**  
+	- Efeitos e fenômenos mágicos do mundo Fantástico
+	- Possíveis variações: Sobrenatural, Paranormal, Insólito
 - **MOVIMENTO (TUM)**  
+	- Deslocamento e locomoção
+	- Possíveis variações: Vibração
+	- Possíveis negações: Inércia
 - **MUNIÇÃO (SAG)**  
+	- Objetos utilizados como projéteis
+	- Possíveis variações: Objeto de arremesso improvisado
 - **NECRÓTICO (NECRO)**  
+	- Energia sobrenatural da morte, decomposição, necrose
+	- Possíveis variações: Ferrugem
+	- Possíveis negações: Morto Vivo
 - **NOJENTO-SECREÇÃO (APU)**  
+	- Fatores corporais vistos como asquerosos
+	- Possíveis variações: Doença, Miasma, Mal-Estar, Sujeira
 - **PALADAR (GUS)**  
+	- Sabor ou percepção gustativa
+	- Possíveis variações: Fome, Fala
 - **PEDRA (ROC)**  
+	- Rocha ou Mineral sólido
+	- Possíveis variações: Metal, Vidro, Cristal, Cascalho
 - **RADIAÇÃO (CAND)**  
+	- Energia ou objeto radioativos, nocivos à vida, capaz de causar mutações e degradar a matéria em sua composição química ou molecular
+	- Possíveis variações: Onda de Rádio, Mutação
 - **REFLEXO-ESPELHO (KAN)**  
+	- Superfícies com a capacidade de refletir a luz de modo a formar uma imagem concisa e clara ou a própria imagem vista na face reflexiva
+	- Possíveis variações: Cópia, Réplica
 - **SANGUE (HEM)**  
+	- Material aquoso contido dentro do corpo de indivíduos, geralmente associado à vida
+	- Possíveis variações: Força Vital
 - **SOM (MUL)**  
+	- Barulho, audição, ruído ou vibração
+	- Possíveis variações: Vibração
 - **SONO (CYSG)**  
+	- Processo fisiológico de reduzir o metabolismo e atividade sensorial
+	- Possíveis variações: Sono
+	- Possíveis negações: Insônia 
 - **TECIDO (TUNI)**  
+	- Objetos confeccionados a partir do entrelaçamento de fios
+	- Possíveis variações: Pele
 - **TERRA (MUN)**  
+	- Material que compõe o solo
+	- Possíveis variações: Poeira, Vidro, Lama, Areia, Argila
 - **VELOCIDADE (AST)**  
+	- Característica de um objeto em aceleração
+	- Possíveis negações: Lentidão, Inércia 
 - **VENENO (TOX)**  
+	- Material tóxico, peçonhento e nocivo a organismos vivos
+	- Possíveis variações: Doença, Miasma
 - **VISÃO (OCUL)**  
+	- Sentido sensorial de perceber luz, vista, efeito de ver
+	- Possíveis negações: Invisível, Oculto
 
 ---
 
 ### **COMPLEMENTOS**
 
 #### Complementos Modificadores
-- **CÍRCULO (SAN)**  
-- **OBJETO GENÉRICO (SIN)**  
-- **PAREDE (SAR)**  
+Aparecem no final das frases como partículas separadas
+
+- **FORMA: CÍRCULO (SAN)**  
+	- Utilizada quando a magia terá forma circular ou arredondada
+- **FORMA: OBJETO GENÉRICO (SIN)**  
+	- Utilizada quando a magia terá forma de objetos simples, sem formas complexas
+- **FORMA: PAREDE (SAR)**  
+	- Utilizada quando a magia terá forma de uma parede, muro ou linha
 - **INERTE (ITAM)**  
+	- Utilizada quando deseja que a magia fique aguardando um acontecimento para que se ative
 - **MAIOR (MOR)**  
+	- Intensifica o efeito da magia
 - **MENOR (MIN)**  
+	- Diminui o efeito da magia
 #### Complementos Criadores
+
+Aparecem como prefixos ou como conectivos
+
 - **ADIÇÃO (AG)**  
+	- Cria uma nova Característica ao somar duas outras, aparece entre duas Características
+	- Exemplo: QuanAgAer - Água + Ar - Neblina
 - **DERIVAÇÃO (MUT)**  
+	- Permite a utilização de um Objeto como Característica, aparece como prefixo
+	- Exemplo: Mutexa - Inanimado
 - **NEGAÇÃO (NO)**  
+	- Cria uma Característica que é o oposto lógico da Característica negada.
+	- Exemplo: noNecro - Não Necrótico - Morto Vivo
 - **VARIAÇÃO (ADA)**  
+	- Cria uma nova Característica que é uma variação lógica da utilizada
+	- Exemplo: adaIg - Variação Fogo - Fumaça
