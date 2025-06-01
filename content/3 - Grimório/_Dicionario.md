@@ -1,5 +1,5 @@
 ---
-title: _Dicionário de Partículas
+title: Dicionário de Partículas
 draft: false
 tags:
   - partículas
