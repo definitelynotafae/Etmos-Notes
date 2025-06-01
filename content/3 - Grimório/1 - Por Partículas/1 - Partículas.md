@@ -14,9 +14,24 @@ Cada magia é composta obrigatoriamente por uma função e um objeto, pode ter q
 
 ### **FUNÇÕES**
 - **[[Alterar (AL)|Alterar (AL)]]**
+	- Modificar, Influenciar, Transfigurar ou Metamorfosear
+	- Altera em parte ou todo sua fisicalidade ou características abstratas
+	- Normalmente temporário, durando 5 minutos
 - **[[3 - Grimório/1 - Por Partículas/Aprisionar (AR)|Aprisionar (AR)]]**
+	- Conter, Restringir, Confinar, Capturar, Reter ou Segurar
+	- Afeta tanto coisas materiais como imateriais
+	- A prisão precisa ser algo presente no ambiente, podendo ser material ou conceitos abstratos
+	- Normalmente temporário, durando 5 minutos
 - **[[3 - Grimório/1 - Por Partículas/Atacar - Ferir (IM)|Atacar - Ferir (IM)]]**
+	- Machucar, Lesionar ou Golpear
+	- O objeto conectado é o que será usado para ferir
+	- O alvo não precisa estar na frase
+	- O objeto precisa existir no ambiente, mesmo que em pequenas quantidades
+	- Pode fazer o uso completo do recurso ou alterá-lo
 - **[[3 - Grimório/1 - Por Partículas/Atrair - Repelir (IR)|Atrair - Repelir (IR)]]**
+	- Puxar em sua direção ou empurrar para longe de si
+	- Sem necessidade de contato físico
+	- Pode ser imediato ou durar pelo tempo padrão de 5 minutos
 - **[[3 - Grimório/1 - Por Partículas/Banir (EN)|Banir (EN)]]**
 - **[[3 - Grimório/1 - Por Partículas/Controlar (ET)|Controlar (ET)]]**
 - **[[3 - Grimório/1 - Por Partículas/Destruir (AS)|Destruir (AS)]]**
