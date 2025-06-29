@@ -86,7 +86,7 @@ Entrando nesse portal a pessoa é levada para um grande lago no interior de uma 
 ## A Grande Floresta
 
 ### Conceito
-
+Que lugar melhor para se manter um Portal de Meio do que no meio de uma floresta densa? Esse conceito coloca a escola em um ambiente inspirado na ideia de uma arquitetura simbiótica com a natureza, onde todas as construções são feitas de modo a evitar impactos para o ecossistema. Com o Mundo Fantástico possuindo árvores colossais devido à pouca interferência humana e interferência da magia, as construções são todas feitas ao redor dos troncos e galhos das árvores, com formatos arredondados e feitas totalmente de madeira.
 
 ### Detalhes
 #### História
